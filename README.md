@@ -14,3 +14,8 @@ tenor_key = {tenor api key}
 !gif keyword 
 ```
 gif search
+
+```
+!menu keyword 
+```
+meal search
